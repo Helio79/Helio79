@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Helio79
-- 👀 I’m intrested in ...
+- 👀 I’m intrested in  desenvolvimento para web
 - 🌱 I’m currently Estou estudando Desenvolvimento para web linguagens HTML, CSS, JAVASCRIPT, SQL, NODE, REACT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me heliofelix1979@gmail.com ou helio_felix@hotmail.com
